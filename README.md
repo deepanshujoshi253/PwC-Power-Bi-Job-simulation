@@ -34,3 +34,4 @@ No. of leavers: This KPI measures the number of employees who left the company d
 Average performance rating: men: This KPI measures the average performance rating of male employees in the executive suite.
 
 Average Performance rating: women: This KPI measures the average performance rating of female employees in the executive suite.
+
